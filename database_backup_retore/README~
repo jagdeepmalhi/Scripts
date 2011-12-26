@@ -6,7 +6,7 @@ How to Use:
 
 2. Run ./backup.sh on terminal, by default it work for one database backup , if you want to take backup of all databases than uncomment line number 11 and comment line 17.
 
-3. If you want to restore you backup, run restore.sh file, but first give correct BACKUP_FILE_PATH in config.sh file
+3. if you want to restore you backup, run restore.sh file. but first give correct BACKUP_FILE_PATH in config.sh file
 
 4. For Automatic backup use this script in crontab.
 Follow this to run the script using crontab.

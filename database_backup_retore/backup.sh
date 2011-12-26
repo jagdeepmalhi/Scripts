@@ -8,7 +8,7 @@ echo "Wait.........."
  #FOR ALL DATABASES
 ##############################
 
-#/usr/bin/mysqldump --user=$DATABASE_USER --password=$DATABASE_PASSWORD --lock-all-tables \ --all-databases > $DESTINATION_FOLDER/backup_all-${datum}.sql
+#/usr/bin/mysqldump --user=$DATABASE_USER --password=$DATABASE_PASSWORD --lock-all-tables  --all-databases > $DESTINATION_FOLDER/backup_all-${datum}.sql
 
 ###############################
 #FOR SINGLE DATABASE
