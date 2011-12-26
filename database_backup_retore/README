@@ -9,5 +9,4 @@ How to Use:
 3. If you want to restore you backup, run restore.sh file, but first give correct BACKUP_FILE_PATH in config.sh file
 
 4. For Automatic backup use this script in crontab.
-Follow this to run the script using crontab.
-http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/
+Follow this to run the script using crontab : http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/
